@@ -3,8 +3,8 @@ name: reputation-warfare
 description: Build and deploy reputation as a strategic asset that works while you rest. Let your reputation precede you like a shadow.
 license: MIT
 metadata:
+  version: 1.0.4833
   author: sethmblack
-  version: 1.0.4832
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reputation-warfare
